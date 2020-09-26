@@ -1,0 +1,9 @@
+.vs/
+.vscode/
+bin/
+obj/
+.idea/
+.DS_Store
+TestResults/
+*.user
+coverageReport
